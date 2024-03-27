@@ -1,0 +1,32 @@
+[
+    {
+        "title": "Comment fonctionne le système de veille ?",
+        "content": "Le système de veille se compose de différentes catégories: <ol class='marginLeft'><li><h3 class='foramtionVideo'>La formation vidéo:</h3><ul><li>Hébergement de vidéos  <i class='fa-solid fa-cloud'></i></a><li>Les outils de montage <i class='fa-solid fa-photo-film'></i></li><li>Les designs</li><li>Aspect légal</li></ul></li><li><h3 class='producManager'>Product Management:</h3><ul><li>Culture digitale</li><li>Méthodes agiles</li></ul></li>",
+        "id": 1
+    },
+    {
+        "title": "Comment y contribuer ?",
+        "content": "Sur chaque vue vous trouverez cette icone : <button id='faqButton' class='btn btn-primary helpButton' value='faq'><i id='helpIcon' class='fa-solid fa-question'></i></button><p>En cliquant dessus, vous pourrez contribuer à la veille suivant les instructions indiquées.</p>",
+        "id": 2
+    },
+    {
+        "title": "Comment sont sélectionées les sources ?",
+        "content": "Les sources sont sélectionnées en fonction de leur fiabilité et de leur pertinence. Elles sont ensuite analysées par des experts qui déterminent si elles sont fiables ou non.",
+        "id": 3
+    },
+    {
+        "title": "Comment sont classées les sources ?",
+        "content": "Les sources sont classées en fonction de leur fiabilité et de leur pertinence. Elles sont ensuite analysées par des experts qui déterminent si elles sont fiables ou non.",
+        "id": 4
+    },
+    {
+        "title": "Processus permettant de collecter automatiquement l'information mais également de la classer, de la commenter et de la stocker pour plus tard.",
+        "content": "Le processus de collecte automatique de l'information est un processus qui permet de collecter automatiquement l'information mais également de la classer, de la commenter et de la stocker pour plus tard. Il est composé de plusieurs étapes : la collecte, le classement, le commentaire et le stockage.",
+        "id": 5
+    },
+    {
+        "title": "Comment les informations peuvent être commentées et diffusées ?",
+        "content": "Les informations peuvent être commentées et diffusées de plusieurs manières : par exemple, elles peuvent être commentées par des experts qui les analysent et les diffusent ensuite sur un site web ou par email.",
+        "id": 6
+    }
+]

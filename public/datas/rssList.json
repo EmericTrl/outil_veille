@@ -1,0 +1,48 @@
+[
+    {
+        "id": "2",
+        "page": "productmanager",
+        "title": "Product Manager",
+        "url": "https://280group.com/product-management-blog/feed/"
+    },
+    {
+        "id": "3",
+        "page": "productmanager",
+        "title": "Claude Aubry",
+        "url": "https://claudeaubry.fr/index.xml"
+    },
+    {
+        "id": "4",
+        "page": "agileMethods",
+        "title": "L'Agiliste",
+        "url": "https://agiliste.fr/comments/feed/"
+    },
+    {
+        "id": "6",
+        "page": "design",
+        "title": "Akiani",
+        "url": "https://blog.akiani.fr/feed/",
+        "comments": "https://blog.akiani.fr/comments/feed/"
+    },
+    {
+        "id": "7",
+        "page": "design",
+        "title": "Blog UX designer",
+        "url": "https://bloguxdesigner.fr/feed/",
+        "comments": "https://bloguxdesigner.fr/comments/feed/"
+    },
+    {
+        "id": "8",
+        "page": "design",
+        "title": "Blog UX",
+        "url": "https://blog-ux.com/feed/",
+        "comments": "https://blog-ux.com/comments/feed/"
+    },
+    {
+        "id": "9",
+        "page": "design",
+        "title": "Creative Juiz",
+        "url": "https://www.creativejuiz.fr/blog/feed",
+        "comments": "https://www.creativejuiz.fr/blog/comments/feed"
+    }
+]

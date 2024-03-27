@@ -1,0 +1,37 @@
+[
+    {
+        "name": "Presse Citron",
+        "page": "digitalCulture",
+        "url": "pressecitron"
+    },
+    {
+        "name": "Udemy",
+        "page": "videoTraining",
+        "url": "udemy"
+    },
+    {
+        "name": "OpenClassrooms",
+        "page": "videoTraining",
+        "url": "OpenClassrooms"
+    },
+    {
+        "name": "Mathieu Nebra",
+        "page": "videoTraining",
+        "url": "m_nebra"
+    },
+    {
+        "name": "Neal Mohan",
+        "page": "hosting",
+        "url": "nealmohan"
+    },
+    {
+        "name": "Youtube",
+        "page": "hosting",
+        "url": "youtube"
+    },
+    {
+        "name": "CNIL",
+        "page": "legal",
+        "url": "CNIL"
+    }
+]

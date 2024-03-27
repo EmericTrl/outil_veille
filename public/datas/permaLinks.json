@@ -1,0 +1,114 @@
+[
+    {
+        "websiteName": "Kinsta",
+        "title": "Les 10 meilleures solutions d’hébergement vidéo à envisager en 2024 (gratuites ou payantes)",
+        "url": "https://kinsta.com/fr/blog/hebergement-video/",
+        "page": "hosting",
+        "style": "foramtionVideo"
+    },
+    {
+        "websiteName": "Videas",
+        "title": "5 plateformes à connaître pour héberger vos vidéos",
+        "url": "https://videas.fr/fr/blog/5-plateforme-video",
+        "page": "hosting",
+        "style": "foramtionVideo"
+    },
+    {
+        "websiteName": "Codeur.com",
+        "title": "5 sites pour héberger et diffuser vos vidéos sur internet",
+        "url": "https://www.codeur.com/blog/sites-heberger-diffuser-videos-internet/",
+        "page": "hosting",
+        "style": "foramtionVideo"
+    },
+    {
+        "websiteName": "WIX Blog",
+        "title": "Les 17 meilleurs logiciels de montage vidéo gratuits à utiliser en 2024",
+        "url": "https://fr.wix.com/blog/logiciel-montage-video-gratuit",
+        "page": "videoTools",
+        "style": "foramtionVideo"
+    },
+    {
+        "websiteName": "FrenchProduit",
+        "title": "L'association qui fédère la communauté produit en France",
+        "url": "https://www.frenchproduit.com/",
+        "page": "digitalCulture",
+        "style": "producManager"
+    },
+    {
+        "websiteName": "Parlons Produit",
+        "title": "Blog Monsieur Guiz",
+        "url": "https://blog.monsieurguiz.fr/",
+        "page": "digitalCulture",
+        "style": "producManager"
+    },
+    {
+        "websiteName": "CNIL",
+        "title": "Règlementation européenne de la protection des données",
+        "url": "https://www.cnil.fr/fr/reglement-europeen-protection-donnees",
+        "page": "legal",
+        "style": "producManager"
+    },
+    {
+        "websiteName": "StreamLike",
+        "title": "Tout savoir (ou presque) sur le RGPD",
+        "url": "https://www.streamlike.fr/blog/tout-savoir-sur-le-rgpd/#:~:text=Les%20vid%C3%A9os%20YouTube%20ou%20Dailymotion,sp%C3%A9cifique%20qui%20d%C3%A9sactive%20les%20cookies.",
+        "page": "legal",
+        "style": "producManager"
+    },
+    {
+        "websiteName": "Cyber Gouv - ANSSI",
+        "title": "Agence nationale de la sécurité des systèmes d'information",
+        "url": "https://cyber.gouv.fr/",
+        "page": "legal",
+        "style": "producManager"
+    },
+    {
+        "websiteName": "Stratege Marketing",
+        "title": "Droit d’auteur et YouTube: ce qu’il faut savoir",
+        "url": "https://www.strategemarketing.com/droit-dauteur-youtube-et-ce-quil-faut-savoir/#:~:text=C%27est%20assez%20simple%20%3A%20Si,d%27auteur%20le%20sont%20aussi.",
+        "page": "legal",
+        "style": "producManager"
+    },
+    {
+        "websiteName": "Le monde Informatique",
+        "title": "Méthodes agiles: 10 outils kanban de gestion des workflows",
+        "url": "https://www.lemondeinformatique.fr/actualites/lire-methode-agile-10-outils-kanban-de-gestion-des-workflows-80722.html",
+        "page": "agileMethods",
+        "style": "producManager"
+    },
+    {
+        "websiteName": "OpenClassrooms",
+        "title": "Des compétences d'aujourd’hui qui ont de l'avenir",
+        "url": "https://openclassrooms.com/fr/",
+        "page": "videoTraining",
+        "style": "foramtionVideo"
+    },
+    {
+        "wevsiteName": "Udemy",
+        "title": "Apprenez ce que vous voulez, où vous voulez",
+        "url": "https://www.udemy.com/fr/courses/teaching-and-academics/online-education/",
+        "page": "videoTraining",
+        "style": "foramtionVideo"
+    },
+    {
+        "websiteName": "Stephanie Walter",
+        "title": "15 + blogs francophone sur l’UX Design",
+        "url": "https://stephaniewalter.design/fr/blog/15-blogs-francophone-sur-lux-design-avec-flux-rss/",
+        "page": "design",
+        "style": "producManager"
+    },
+    {
+        "websiteName": "Pinterest",
+        "title": "Recherche : ux design inspiration",
+        "url": "https://www.pinterest.fr/search/pins/?q=ux%20design%20inspiration&rs=guide&sourceModuleId=OBux_design_inspirationd4456439-c5ff-4929-a1ff-296eefc0bb8c&journeyDepth=1&add_refine=Inspiration%7Cguide%7Cword%7C2",
+        "page": "design",
+        "style": "producManager"
+    },
+    {
+        "websiteName": "La Quadrature du Net",
+        "title": "Association de défense des droits et libertés des citoyens sur Internet",
+        "url": "https://www.laquadrature.net/",
+        "page": "legal",
+        "style": "producManager"
+    }
+]
